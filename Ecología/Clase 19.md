@@ -46,3 +46,6 @@ Fotosintesis
 El proceso de transformacion de la energia en la que la energia luminica transforma la energia quimica y la alamacena en moleculas organicas
 Es una serie de reacciones impulsadas por la luz mediante las cuales se producen biomoleculas organicas a partir del dioxido de carbono y agua.
 
+Hay productores(plantas, algas), 
+energia quimica en los enlaces de los alimentos
+y consumidores ( nosotros)
